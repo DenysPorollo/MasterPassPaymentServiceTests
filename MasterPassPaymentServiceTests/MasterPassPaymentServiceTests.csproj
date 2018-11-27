@@ -50,7 +50,7 @@
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SwaggerHelper">
-      <HintPath>..\..\Dlls\SwaggerHelper.dll</HintPath>
+      <HintPath>C:\Users\via.tkachuk\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\SwaggerHelper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
