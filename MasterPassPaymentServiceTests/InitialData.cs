@@ -8,8 +8,7 @@ namespace MasterPassPaymentServiceTests
 {
     public static class InitialData
     {
-        //Корректные данные 1231321313213213
-        //asdasdas
+        //Корректные данные 1111111111
         public static string    guid            = "8F322CAA-EF25-4D52-992B-1754343B67BE";
         public static string    uniqueId        = "0639DB14E9F6906F54D722F474A0952E52FA4F60292B13F23184D11A7537E852";
         public static double    amount          = 76.86;
